@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: python-training
+Version: 0.1.0
+Summary: Add your description here
+Author: Mihir
+Author-email: you@example.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=2.3.5
+Requires-Dist: pandas>=2.3.3
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+
+# python-training

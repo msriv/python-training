@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+python_training.egg-info/PKG-INFO
+python_training.egg-info/SOURCES.txt
+python_training.egg-info/dependency_links.txt
+python_training.egg-info/requires.txt
+python_training.egg-info/top_level.txt
