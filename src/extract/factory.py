@@ -3,6 +3,9 @@ class ExtracterFactory:
         if source_type == 'csv':
             from .csv_extracter import CSVExtractor
             return CSVExtractor()
+        elif source_type == 'db':
+            from .api_extracter import DBExtractor
+            return DBExtractor()
         elif source_type == 'api':
             from .api_extracter import APIExtracter
             return APIExtracter()
